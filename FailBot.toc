@@ -1,0 +1,8 @@
+## Interface: 30100
+## Title: 丁丁現形器(FailBot)
+## Notes: 用來抓出隊伍或者團隊中的丁丁，輸入 /failbot 以進行設定。
+## Version: 2.12
+## Author: Veev-Executus(US) 中文化：Hoodlum(凜風峽灣)
+## SavedVariables: FailBot_Options, FailBot_FailCount
+FailBot.xml
+Libs\Chronos\Chronos.xml
